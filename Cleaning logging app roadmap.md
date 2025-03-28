@@ -1,6 +1,3 @@
-25202503280825
-Tags: [[Coding]]
-
 # Cleaning logging app roadmap
 
 1. Back-end (React Native - JS) [[Procedure for app]]

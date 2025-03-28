@@ -1,7 +1,3 @@
-25202503280818
-Tags: [[idea]] [[Coding]]
-
-
 # Cleaning logging app idea
 
 Develop an app for logging cleaning data easily and making statistics readily available [[Cleaning logging app]]

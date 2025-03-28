@@ -1,6 +1,3 @@
-25202503280828
-Tags: [[Coding]]
-
 ## Usage example
 An idea of how the app will be used:
 - On app start: 

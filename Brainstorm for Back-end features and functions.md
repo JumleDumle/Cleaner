@@ -1,6 +1,3 @@
-25202503280910
-Tags: [[Cleaning logging app]] [[Coding]] [[brainstorm]]
-
 Text field for input-prompt
 Keyboard auto-open on app start
 Suggestions below input-prompt
@@ -16,6 +13,7 @@ Implementation of calendar format/timestamps
 - adapt for UI (later)
 
 Bonus:
+Export entries to file (.csv/.json)
 Implementation of Calendar import
 - Either API or Local .calendar file import
 
