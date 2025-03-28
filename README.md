@@ -3,6 +3,7 @@
 It's meant to be an easy and simple app-solution for logging cleaning activities at home.
 - I clean daily and want a simple solution to log my activity so I don't repeat the same cleaning too often.
 
+## The plan:
 This is my first time developing an app, software; Basically anything more complex than a script.
 - I plan to develop the app using React Native though I have never used it before.
 
