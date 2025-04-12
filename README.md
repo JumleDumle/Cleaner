@@ -1,4 +1,9 @@
 # Cleaner
+
+# Postponed:
+My personal situation changed drastically lately and I'm forced to postpone development of my app.
+- I'll archive the repo but keep it around for future reference.
+
 ### A simple app for logging cleaning entries at home
 It's meant to be an easy and simple app-solution for logging cleaning activities at home.
 - I clean daily and want a simple solution to log my activity so I don't repeat the same cleaning too often.
